@@ -4,7 +4,7 @@ import numpy as np
 import socket
 
 # Dirección IP del ESP32 (Cámbiala según tu red)
-ESP32_IP = "192.168.1.100"  # Reemplaza con la IP de tu ESP32
+ESP32_IP = "172.20.10.4"  # Reemplaza con la IP de tu ESP32
 ESP32_PORT = 12345  # Puerto UDP en el ESP32
 
 # Configurar socket UDP
